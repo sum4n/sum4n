@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sum4n
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Suman Das
+- 👀 I’m interested in working as a Web Developer
 - 🌱 I’m currently learning TheOdinProject
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any project related to Web Development(JS)
+- 📫 You can reach me by sum4ndas@proton.me
 
 <!---
 sum4n/sum4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
